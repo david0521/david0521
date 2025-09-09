@@ -11,12 +11,17 @@
     <b>About</b>: Graduated from a high school based in Seoul, Republic of Korea </br>
     <b>Study Period</b>: 2019 ~ 2022
     <h3>University of Gothenburg</h3>
-    <b>About</b>: Currently in the process of obtaining the degree <i>BSc in Software Engineering and Management</i>.</br>
+    <b>About</b>: Completed and earned BSc degree in <i>BSc in Software Engineering and Management</i>.</br>
     Focusing on the development process of Software Engineering and the actual development. </br>
     <b>Study Period</b>: 2022 ~ 2025
     <h3>National University of Singapore (NUS)</h3>
     <b>About</b>: Single semester exchange studies at the National University of Singapore.</br>
     <b>Study Period</b>: 2024
+  </div>
+  <h2>Side Project</h2>
+  <div>
+    <h3>Omniversity</h3>
+    <b>Link</b>: <a href="https://github.com/exchange-reddit/">Link to Omniversity🚀</a>
   </div>
 </div>
 
